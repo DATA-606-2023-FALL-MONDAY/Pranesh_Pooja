@@ -27,13 +27,20 @@ The idea of building a financial chatbot on specific or general finance areas co
 
 ## Data Source
 
-- **Data set:** [Huffing Face](https://huggingface.co/datasets/gbharti/wealth-alpaca_lora)
+- **Data set:** [Hugging Face](https://huggingface.co/datasets/gbharti/wealth-alpaca_lora)
 - **Data size:** 31.3 MB
 - **Data shape:** 44,341 (rows) x 3(columns/features)
 - **Data Contains the following columns:**
-    - **Output:** The expected output string 
-    - **Input:** Any input instructions that can be added are specified here.
-    - **Instruction:** Multiple financial scenario questions.
+    - **Columns:**
+        - **Output:** The expected output string 
+        - **Input:** Any input instructions that can be added are specified here.
+        - **Instruction:** Multiple financial scenario questions.
+    - **Data Type:**
+        - **Output:** String
+        - **Input:** String
+        - **Instructions:** String
+- **Target Column:** Output
+- **Main column:** All features are considered
     
 - This dataset is a combination of Stanford's Alpaca (https://github.com/tatsu-lab/stanford_alpaca) and FiQA (https://sites.google.com/view/fiqa/) with another 1.3k pairs custom generated using GPT 3.5
 
