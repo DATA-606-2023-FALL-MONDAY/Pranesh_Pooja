@@ -57,6 +57,11 @@ This project matters as it provides guidance to people who want to excel in fina
   - **NULL Values:** Overall Zero null values found in the dataset.
   - **Data Cleaning:** Since the data is in text format to carry out the analysis it needs to be cleaned up. The cleaning steps involve removing punctuations, stop words, and lemmatization. After these steps finally, our data is ready for EDA analysis!
  
-  - **EDA 1 - Sentimaent Check:**
-  - <img align="middle" src="/data/Pictures/EDA1.png" alt="alt text" width="350" height="350">
+  - **EDA 1 - Sentimaent Check:**<br>
+  
+    <img align="middle" src="/data/Pictures/EDA1.png" alt="alt text" width="350" height="350"><br>
+
+    The above graph shows that most of our output column content revolves between 0 and 0.25 indicating most of them have positive words. A few words are negative as well but our dataset seems to be fair as it has a very minimal negative word distribution.
+
+    
 
