@@ -1,6 +1,6 @@
 # Pooja Kangokar Pranesh
 
-<img align="left" src="Headshot-Pooja.png" alt="alt text" width="110" height="130">
+<img align="left" src="/data/Pictures/Headshot-Pooja.png" alt="alt text" width="110" height="130">
 
 
 ## Contact
