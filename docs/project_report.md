@@ -52,11 +52,13 @@ This project matters as it provides guidance to people who want to excel in fina
  
 ## 4. EDA
 
-- **Data Pre-Processing:**
+- **Data Pre-Processing & Cleaning:**
   
   - **NULL Values:** Overall Zero null values found in the dataset.
   - **Data Cleaning:** Since the data is in text format to carry out the analysis it needs to be cleaned up. The cleaning steps involve removing punctuations, stop words, and lemmatization. After these steps finally, our data is ready for EDA analysis!
- 
+
+- **Data Analysis:**
+  
   - **EDA 1 - Sentiment Check on Output feature:**<br>
   
     <img align="middle" src="/data/Pictures/EDA1.png" alt="alt text" width="350" height="350"><br>
