@@ -1,6 +1,6 @@
 # DATA 606 CAPSTONE PROPOSAL
 
-## Title: Fin Bot Powered by Generative AI
+## 1. Title: Fin Bot Powered by Generative AI
 
 - Prepared for UMBC Data Science master’s degree Capstone by Dr. Chaojie (Jay) Wang
 - Author name: Pooja Kangokar Pranesh
@@ -9,7 +9,7 @@
 - Powerpoint presentation - TBD
 - Youtube Video - TBD 
 
-## Background
+## 2. Background
 
 With the emerging revolutions, big companies are utilizing and adapting to the new technological changes to perform better. Similarly, the financial industry has witnessed significant transformations by integrating AI and growing NLP technologies, leading to the development of tools like financial chatbots. This bot will become a helpful resource for individuals to navigate through complexities in finance. 
 
@@ -17,15 +17,17 @@ The capabilities of GenAI have been increasing day by day. The latest report fro
 
 ![alt text](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20economic%20potential%20of%20generative%20ai%20the%20next%20productivity%20frontier/svgz-vivatech-full-report-rgb-exh1.svgz?cq=50&cpy=Center)
 
-The idea of building a financial chatbot on specific or general finance areas could be a helpful bot for employees who work in fin sectors and for clients who are entirely new to this sector and want to know more.
+The idea of building a financial chatbot on specific or general finance areas could be a helpful bot for employees who work in financial sectors and for clients who are entirely new to this sector and want to know more.
 
-## Research Questions
+This project matters as it provides guidance to people who want to excel in financial knowledge and who want to be financially educated. It also helps professionals to cross-verify their ideas and search for second or new paths for investment.
 
-- How can genAI handle new updates on the fin sector time to time?
-- How can financail litreacy be improved among multiple demographics?
+### Research Questions
+
+- How can genAI handle new updates on the fin sector from time to time?
+- How can financial literacy be improved among multiple demographics?
 - Can this bot act as Personal finance assistance? 
 
-## Data Source
+## 3. Data Source
 
 - **Data set:** [Hugging Face](https://huggingface.co/datasets/gbharti/wealth-alpaca_lora)
 - **Data size:** 31.3 MB
