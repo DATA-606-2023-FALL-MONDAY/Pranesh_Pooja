@@ -49,4 +49,14 @@ This project matters as it provides guidance to people who want to excel in fina
 - **Example of bot:**
     - "question": "Why are big companies like Apple or Google not included in the Dow Jones Industrial Average (DJIA) index?",
     - "answers": "That is a pretty exclusive club and for the most part they are not interested in highly volatile companies like Apple and Google. Sure, IBM is part of the DJIA, but that is about as stalwart as you can get these days. The typical profile for a DJIA stock would be one that pays fairly predictable dividends, has been around since money was invented, and are not going anywhere unless the apocalypse really happens this year. In summary, DJIA is the boring reliable company index." ," timestamp": "Sep 11 '12 at 0:53"
+ 
+## 4. EDA
+
+- **Data Pre-Processing:**
+  
+  - **NULL Values:** Overall Zero null values found in the dataset.
+  - **Data Cleaning:** Since the data is in text format to carry out the analysis it needs to be cleaned up. The cleaning steps involve removing punctuations, stop words, and lemmatization. After these steps finally, our data is ready for EDA analysis!
+ 
+  - **EDA 1 - Sentimaent Check:**
+    ![alt text] 
 
