@@ -57,11 +57,41 @@ This project matters as it provides guidance to people who want to excel in fina
   - **NULL Values:** Overall Zero null values found in the dataset.
   - **Data Cleaning:** Since the data is in text format to carry out the analysis it needs to be cleaned up. The cleaning steps involve removing punctuations, stop words, and lemmatization. After these steps finally, our data is ready for EDA analysis!
  
-  - **EDA 1 - Sentimaent Check:**<br>
+  - **EDA 1 - Sentiment Check on Output feature:**<br>
   
     <img align="middle" src="/data/Pictures/EDA1.png" alt="alt text" width="350" height="350"><br>
 
     The above graph shows that most of our output column content revolves between 0 and 0.25 indicating most of them have positive words. A few words are negative as well but our dataset seems to be fair as it has a very minimal negative word distribution.
+
+  - **EDA 2 - Sentiment Check on Instruction feature:**<br>
+  
+    <img align="middle" src="/data/Pictures/EDA2.png" alt="alt text" width="350" height="350"><br>
+
+    Similar to output sentiment graph the instructions feature column as well have the the neutral polarity which indicates that our data is not **Biased**
+
+  - **EDA 3 - 100 Most common words in Output features:**<br>
+  
+    <img align="middle" src="/data/Pictures/EDA3.png" alt="alt text" width="350" height="350"><br>
+
+    Looking at the graph we can say that the most commonly used words in output include money, invest, use, stock, etc
+
+  - **EDA 4 - 100 Most common words in Instruction features:**<br>
+  
+    <img align="middle" src="/data/Pictures/EDA4.png" alt="alt text" width="350" height="350"><br>
+
+    Similarly, in the instruction feature, we can see most common words are use, follow, sentence, money, etc
+
+  - **EDA 5 - Applying Word2Vec to see most similar words learning from Model:**<br>
+  
+    <img align="middle" src="/data/Pictures/EDA5.png" alt="alt text" width="350" height="350"><br>
+
+    This word2Vec graph shows us that the words that the model identified similar to invest are stocksbond, low risk, diversification, etc
+
+  - **EDA 6 - Applying Word2Vec to see most similar words learning from Model:**<br>
+  
+    <img align="middle" src="/data/Pictures/EDA6.png" alt="alt text" width="350" height="350"><br>
+
+    This word2Vec graph shows us that the words that the model identified similar to money are stash, cash, diversification, moneymarket etc
 
     
 
