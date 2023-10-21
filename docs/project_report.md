@@ -93,7 +93,13 @@ This project matters as it provides guidance to people who want to excel in fina
   
     <img align="middle" src="/data/Pictures/EDA6.png" alt="alt text" width="350" height="350"><br>
 
-    This word2Vec graph shows us that the words that the model identified similar to money are stash, cash, diversification, moneymarket etc
+    This word2Vec graph shows us that the words that the model identified similar to money are stash, cash, diversification, moneymarket etc<br>
+
+Since the model, I am gonna build is a chatbot, it's very important to look at the data and understand if it has any biased content so that our model won't learn wrong. Looking at the analysis it is evident that the data is **unbiased** and good to move forward. The model mainly focuses on only 2 variables. In our case it is `instruction` and `output` and both look good. 
+
+The second main analysis that I carried out was to see if the data is relevant to the finance sector and through the 100 most commonly used words I can say that **Yes** the data mostly revolves around the finance sector. 
+
+The last analysis was to dig deeper and understand the cluster of the words the model has learned from the dataset passed. When I checked the word-vec similarity with `Invest` and `Money` words it looked good that the model is learning the cluster embeddings correctly. Proving that our dataset is good to move ahead for the analysis! 
 
     
 
