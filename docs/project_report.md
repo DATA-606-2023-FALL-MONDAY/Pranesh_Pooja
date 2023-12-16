@@ -154,6 +154,8 @@ In conclusion, the Finbot project has been a significant undertaking with great 
 ## 9. References
 
 1. Guilherme Penedo (Jun 2023). TheRefinedWebDatasetforFalconLLM: OutperformingCuratedCorporawithWebData,andWebDataOnly TheFalconLLMteam. https://arxiv.org/abs/2306.01116
+2. Huuging face (2022). https://huggingface.co/tiiuae/falcon-7b
+3. 
 
   
 
