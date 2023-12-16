@@ -83,17 +83,17 @@ This project matters as it provides guidance to people who want to excel in fina
 
     Similarly, in the instruction feature, we can see most common words are use, follow, sentence, money, etc
 
-  - **EDA 5 - Applying Word2Vec to see most similar words learning from Model:**<br>
+  - **EDA 5 - Applying Word2Vec to see most similar words learning from Model for word 'INVEST':**<br>
   
-    <img align="middle" src="/data/Pictures/EDA5.png" alt="alt text" width="350" height="350"><br>
+    <img align="middle" src="/data/Pictures/EDA5.png" alt="alt text" width="300" height="400"><br>
 
-    This word2Vec graph shows us that the words that the model identified similar to invest are stocksbond, low risk, diversification, etc
+    This word2Vec table shows us that the words that the model identified similar to invest are stocksbond, low risk, diversification, etc
 
-  - **EDA 6 - Applying Word2Vec to see most similar words learning from Model:**<br>
+  - **EDA 6 - Applying Word2Vec to see most similar words learning from Model for word 'MONEY':**<br>
   
-    <img align="middle" src="/data/Pictures/EDA6.png" alt="alt text" width="350" height="350"><br>
+    <img align="middle" src="/data/Pictures/EDA6.png" alt="alt text" width="300" height="400"><br>
 
-    This word2Vec graph shows us that the words that the model identified similar to money are stash, cash, diversification, moneymarket etc<br>
+    This word2Vec table shows us that the words that the model identified similar to money are stash, cash, diversification, moneymarket etc<br>
 
 Since the model, I am gonna build is a chatbot, it's very important to look at the data and understand if it has any biased content so that our model won't learn wrong. Looking at the analysis it is evident that the data is **unbiased** and good to move forward. The model mainly focuses on only 2 variables. In our case it is `instruction` and `output` and both look good. 
 
