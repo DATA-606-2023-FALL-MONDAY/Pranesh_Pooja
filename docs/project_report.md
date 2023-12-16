@@ -103,6 +103,10 @@ The last analysis was to dig deeper and understand the cluster of the words the 
 
 ## 5. Model Training
 
+- **Model:**
+
+  
+
 ## 6. Machine Learning Models Performance Evaluation
 
 - **Human Evaluation:**
