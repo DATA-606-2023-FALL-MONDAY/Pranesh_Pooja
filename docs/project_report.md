@@ -139,8 +139,7 @@ The last analysis was to dig deeper and understand the cluster of the words the 
    The potential future use case would be to incorporate the chatbot in any website where users can unleash its power. Currently, the model weights are hosted in the hugging face account. Keeping a decent GPU like the Tesla T4 will make the model run. The application is not active as every hit and keeping alive would incur cost, but when infrastructure is available this model can be easily hosted with the trained weights available on hugging face.
 
 ## 8. Conclusion
-
-    In conclusion, the Finbot project has been a significant undertaking with great outcomes. My project objectives were met and throughout the project lifecycle faced problems with computational power but did overcome them implemented innovative solutions and achieved substantial progress. 
+In conclusion, the Finbot project has been a significant undertaking with great outcomes. My project objectives were met and throughout the project lifecycle faced problems with computational power but did overcome them implemented innovative solutions and achieved substantial progress.
 
 ## 9. References
 
