@@ -119,7 +119,7 @@ The last analysis was to dig deeper and understand the cluster of the words the 
 
 - **Testing Environment:**
 
-  The model has been trained/fine-tuned in Google Colab Pro subscription with A100 GPU and with 70GB RAM. 
+  The model has been trained/fine-tuned in Google Colab Pro subscription with A100 GPU and with 70GB RAM.
 
 ## 6. Machine Learning Models Performance Evaluation
 
@@ -132,7 +132,10 @@ The last analysis was to dig deeper and understand the cluster of the words the 
   - Inference time is  highly affected by the model selected for training, dataset size, and available computational sizes. For this project, I have used open open-source falcon-7B Model for fine-tuning, with a data size of around ~ 32 MB, and used an A100 GPU to train the model. The model inference time would be fast based on the GPU configurations and the above-mentioned details. Currently model inferencing was tested on a Tesla T4 GPU which is currently turned down. The latency will be minimal if higher computational resources are provided.
 
 - **Ethical Considerations:**
-  - Model data was tested on the TextBlob model to check the sentiment of the training data, most of the training data contains words that are either neutral or positive indicating that the model wouldn't be trained on "biased" content. This model testing made sure that this LLM as been built by taking care of ethical values. 
+  - Model data was tested on the TextBlob model to check the sentiment of the training data, most of the training data contains words that are either neutral or positive indicating that the model wouldn't be trained on "biased" content. This model testing made sure that this LLM has been built by taking care of ethical values.
+ 
+## 7. Application of the Trained Models
+
   
 
 
