@@ -107,7 +107,7 @@ The last analysis was to dig deeper and understand the cluster of the words the 
 
   🚀 Falcon-7B: This is a causal decoder-only model released and built by TII. It's trained on 1500B tokens of curated corpora. This model is available for public and research purposes under the Apache 2.0 license. This model is also trained with multiple languages they are English, German, Spanish, French (and limited capabilities in Italian, Portuguese, Polish, Dutch, Romanian, Czech, Swedish);
 
-  <img align="middle" src="/data/Pictures/Falcon-Dataset.png" alt="alt text" width="300" height="400"><br>
+  <img align="middle" src="/data/Pictures/Falcon-Dataset.png" alt="alt text" width="600" height="350"><br>
 
 
 
