@@ -108,9 +108,11 @@ The last analysis was to dig deeper and understand the cluster of the words the 
   - Since the output of the bot is human-like text, I have conducted testing on ~50 questions and answers on the bot to look at the results. So far bot answers are human-understandable and match the expected answers. The bot ends the line in the middle as the length of the model has been pre-defined keeping the resource utilization in mind.
     
 - **Training and Inference Time:**
-- **Resource Consumption:**
+
+  - Inference time is  highly affected by the model selected for training, dataset size, and available computational sizes. For this project, I have used open open-source falcon-7B Model for fine-tuning, with a data size of around ~ 32 MB, and used an A100 GPU to train the model. The model inference time would be fast based on the GPU configurations and the above-mentioned details. Currently model inferencing was tested on a Tesla T4 GPU which is currently turned down. The latency will be minimal if higher computational resources are provided.
+
 - **Ethical Considerations:**
-- **Generalization:**
+  - Model data has 
   
 
 
