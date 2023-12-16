@@ -101,5 +101,19 @@ The second main analysis that I carried out was to see if the data is relevant t
 
 The last analysis was to dig deeper and understand the cluster of the words the model has learned from the dataset passed. When I checked the word-vec similarity with `Invest` and `Money` words it looked good that the model is learning the cluster embeddings correctly. Proving that our dataset is good to move ahead for the analysis! 
 
+## 5. Machine Learning Models Performance Evaluation
+
+- **Human Evaluation:**
+  
+  - Since the output of the bot is human-like text, I have conducted testing on ~50 questions and answers on the bot to look at the results. So far bot answers are human-understandable and match the expected answers. The bot ends the line in the middle as the length of the model has been pre-defined keeping the resource utilization in mind.
+    
+- **Training and Inference Time:**
+- **Resource Consumption:**
+- **Ethical Considerations:**
+- **Generalization:**
+  
+
+
+
     
 
