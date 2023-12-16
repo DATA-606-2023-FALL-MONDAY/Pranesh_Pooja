@@ -117,6 +117,10 @@ The last analysis was to dig deeper and understand the cluster of the words the 
 
     This model requires "Pytorch" framework to run on. Needs at least 16B memory to swiftly run inference with Falcon-7B. Mainly model was loaded using the Transformers AutoModelForCausalLM library; this is used to load the hugging face falcon-7B model and for tokenization, AutoTokenizer is called upon the pre-trained model.
 
+- **Testing Environment:**
+
+  The model has been trained/fine-tuned in Google Colab Pro subscription with A100 GPU and with 70GB RAM. 
+
 ## 6. Machine Learning Models Performance Evaluation
 
 - **Human Evaluation:**
