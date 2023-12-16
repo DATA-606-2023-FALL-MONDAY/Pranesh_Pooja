@@ -105,7 +105,13 @@ The last analysis was to dig deeper and understand the cluster of the words the 
 
 - **Model:**
 
-  
+  🚀 Falcon-7B: This is a causal decoder-only model released and built by TII. It's trained on 1500B tokens of curated corpora. This model is available for public and research purposes under the Apache 2.0 license. This model is also trained with multiple languages they are English, German, Spanish, French (and limited capabilities in Italian, Portuguese, Polish, Dutch, Romanian, Czech, Swedish);
+
+
+
+ - **Libraries and Packages used for training:**
+
+This model requires "Pytorch" framework to run on. Needs at least 16B memory to swiftly run inference with Falcon-7B.
 
 ## 6. Machine Learning Models Performance Evaluation
 
