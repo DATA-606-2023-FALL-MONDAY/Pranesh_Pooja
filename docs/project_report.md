@@ -140,6 +140,8 @@ The last analysis was to dig deeper and understand the cluster of the words the 
 
 ## 8. Conclusion
 
+    In conclusion, the Finbot project has been a significant undertaking with great outcomes. My project objectives were met and throughout the project lifecycle faced problems with computational power but did overcome them implemented innovative solutions and achieved substantial progress. 
+
 ## 9. References
 
   
