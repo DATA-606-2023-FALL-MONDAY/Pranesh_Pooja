@@ -157,6 +157,7 @@ In conclusion, the Finbot project has been a significant undertaking with great 
 2. Huuging face (2022). https://huggingface.co/tiiuae/falcon-7b
 3. Mckinsey Digital (Jun 14 2023). The economic potential of generative AI: The next productivity frontier. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction
 4. Rohan Taori and Ishaan Gulrajani. Alpaca: A Strong, Replicable Instruction-Following Model. https://crfm.stanford.edu/2023/03/13/alpaca.html
+5. European Commission (2018). Financial Opinion Mining and Question Answering. https://sites.google.com/view/fiqa/
 
   
 
