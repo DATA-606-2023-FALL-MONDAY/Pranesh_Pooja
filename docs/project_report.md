@@ -136,6 +136,8 @@ The last analysis was to dig deeper and understand the cluster of the words the 
  
 ## 7. Application of the Trained Models
 
+   The potential future use case would be to incorporate the chatbot in any website where users can unleash its power. Currently, the model weights are hosted in the hugging face account. Keeping a decent GPU like the Tesla T4 will make the model run. 
+
   
 
 
