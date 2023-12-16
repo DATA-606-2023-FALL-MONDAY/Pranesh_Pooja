@@ -101,7 +101,9 @@ The second main analysis that I carried out was to see if the data is relevant t
 
 The last analysis was to dig deeper and understand the cluster of the words the model has learned from the dataset passed. When I checked the word-vec similarity with `Invest` and `Money` words it looked good that the model is learning the cluster embeddings correctly. Proving that our dataset is good to move ahead for the analysis! 
 
-## 5. Machine Learning Models Performance Evaluation
+## 5. Model Training
+
+## 6. Machine Learning Models Performance Evaluation
 
 - **Human Evaluation:**
   
