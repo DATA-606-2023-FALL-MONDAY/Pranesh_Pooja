@@ -6,8 +6,8 @@
 - Author name: Pooja Kangokar Pranesh
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Pranesh_Pooja)
 - [LinkedIn](https://www.linkedin.com/in/pooja-pranesh-507344153/)
-- Powerpoint presentation - TBD
-- Youtube Video - TBD 
+- [Powerpoint Presentation Download](https://github.com/DATA-606-2023-FALL-MONDAY/Pranesh_Pooja/blob/main/data/Final-Project-Presentation-Pooja-Pranesh.pptx)
+- [Youtube](https://www.youtube.com/watch?v=oCQVQBjqaA0)
 
 ## 2. Background
 
@@ -134,7 +134,7 @@ The last analysis was to dig deeper and understand the cluster of the words the 
 - **Ethical Considerations:**
   - Model data was tested on the TextBlob model to check the sentiment of the training data, most of the training data contains words that are either neutral or positive indicating that the model wouldn't be trained on "biased" content. This model testing made sure that this LLM has been built by taking care of ethical values.
  
-## 7. Application of the Trained Models
+## 7. Application of the Trained Model
 
    The potential future use case would be to incorporate the chatbot in any website where users can unleash its power. Currently, the model weights are hosted in the hugging face account. Keeping a decent GPU like the Tesla T4 will make the model run. The application is not active as every hit and keeping alive would incur cost, but when infrastructure is available this model can be easily hosted with the trained weights available on hugging face.
 
@@ -153,11 +153,15 @@ In conclusion, the Finbot project has been a significant undertaking with great 
 
 ## 9. References
 
-1. Guilherme Penedo (Jun 2023). TheRefinedWebDatasetforFalconLLM: OutperformingCuratedCorporawithWebData,andWebDataOnly TheFalconLLMteam. https://arxiv.org/abs/2306.01116
-2. Huuging face (2022). https://huggingface.co/tiiuae/falcon-7b
-3. Mckinsey Digital (Jun 14 2023). The economic potential of generative AI: The next productivity frontier. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction
-4. Rohan Taori and Ishaan Gulrajani. Alpaca: A Strong, Replicable Instruction-Following Model. https://crfm.stanford.edu/2023/03/13/alpaca.html
-5. European Commission (2018). Financial Opinion Mining and Question Answering. https://sites.google.com/view/fiqa/
+[1] Guilherme Penedo (Jun 2023). TheRefinedWebDatasetforFalconLLM: OutperformingCuratedCorporawithWebData,andWebDataOnly TheFalconLLMteam. https://arxiv.org/abs/2306.01116
+
+[2] Huuging face (2022). https://huggingface.co/tiiuae/falcon-7b
+
+[3] Mckinsey Digital (Jun 14 2023). The economic potential of generative AI: The next productivity frontier. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction
+
+[4] Rohan Taori and Ishaan Gulrajani. Alpaca: A Strong, Replicable Instruction-Following Model. https://crfm.stanford.edu/2023/03/13/alpaca.html
+
+[5] European Commission (2018). Financial Opinion Mining and Question Answering. https://sites.google.com/view/fiqa/
 
   
 
