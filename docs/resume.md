@@ -5,7 +5,7 @@
 
 ## Contact
 
-* Email, Phone: ai30773@umbc.edu, +1 443-851-0394
+* Email, Phone: ai30773@umbc.edu
 * LinkedIn: https://www.linkedin.com/in/pooja-pranesh-507344153/
 * GitHub: https://github.com/kppooja96
 
