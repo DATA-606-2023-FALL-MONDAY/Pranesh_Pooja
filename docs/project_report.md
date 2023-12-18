@@ -7,7 +7,7 @@
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Pranesh_Pooja)
 - [LinkedIn](https://www.linkedin.com/in/pooja-pranesh-507344153/)
 - [Powerpoint Presentation Download](https://github.com/DATA-606-2023-FALL-MONDAY/Pranesh_Pooja/blob/main/data/Final-Project-Presentation-Pooja-Pranesh.pptx)
-- Youtube Video - TBD 
+- [Youtube](https://www.youtube.com/watch?v=oCQVQBjqaA0)
 
 ## 2. Background
 
