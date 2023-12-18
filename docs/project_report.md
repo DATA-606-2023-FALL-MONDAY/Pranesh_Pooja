@@ -6,8 +6,7 @@
 - Author name: Pooja Kangokar Pranesh
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Pranesh_Pooja)
 - [LinkedIn](https://www.linkedin.com/in/pooja-pranesh-507344153/)
-- [Powerpoint Presentation](https://github.com/DATA-606-2023-FALL-MONDAY/Pranesh_Pooja/blob/main/data/Final-Project-Presentation-Pooja-Pranesh.pptx)
-- Powerpoint presentation - TBD
+- [Powerpoint Presentation Download](https://github.com/DATA-606-2023-FALL-MONDAY/Pranesh_Pooja/blob/main/data/Final-Project-Presentation-Pooja-Pranesh.pptx)
 - Youtube Video - TBD 
 
 ## 2. Background
